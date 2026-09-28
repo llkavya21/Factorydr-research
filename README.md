@@ -8,7 +8,7 @@
 
 > **In one sentence:** FactoryDR tested whether deterministic software could track when product/manufacturing changes make previously valid backup-site evidence no longer applicable to the current product configuration — and then separately tested whether that mechanism justified a standalone software company.
 
-[2-minute case study](CASE_STUDY.md) · [Methodology](methodology/FactoryDR_Methodology_and_Reproducibility.md) · [Evidence summary](evidence/EVIDENCE_SUMMARY.md) · [Claim boundaries](CLAIM_BOUNDARIES.md)
+🌐 **[View the visual case study](https://llkavya21.github.io/Factorydr-research/)**\n\n[2-minute case study](CASE_STUDY.md) · [Methodology](methodology/FactoryDR_Methodology_and_Reproducibility.md) · [Evidence summary](evidence/EVIDENCE_SUMMARY.md) · [Claim boundaries](CLAIM_BOUNDARIES.md)
 
 ---
 
